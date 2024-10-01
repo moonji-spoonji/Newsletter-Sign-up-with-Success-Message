@@ -67,7 +67,7 @@ My Mobile Success Message:
 ### Links
 
 - Solution URL: [My Github](https://github.com/moonji-spoonji/Newsletter-Sign-up-with-Success-Message)
-- Live Site URL: [Newsletter Sign-up on Netlify](https://article-preview-component-moonji.netlify.app/)
+- Live Site URL: [Newsletter Sign-up on Netlify](https://newsletter-sign-up-moonji.netlify.app/)
 
 ## My process
 
